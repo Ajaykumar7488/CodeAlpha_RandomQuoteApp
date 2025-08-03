@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <style name="CustomButton">
+        <item name="android:background">?attr/selectableItemBackground</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:backgroundTint">#3F51B5</item>
+        <item name="android:padding">12dp</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+</resources>
